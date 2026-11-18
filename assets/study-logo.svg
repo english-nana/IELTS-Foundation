@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+  <!-- Neo-Brutalist Shadow & Outer Badge -->
+  <rect x="6" y="6" width="54" height="54" rx="12" fill="#18181B" />
+  <rect x="3" y="3" width="54" height="54" rx="12" fill="#FFE566" stroke="#18181B" stroke-width="3.5" />
+
+  <!-- Open Book Pages -->
+  <path d="M13 24C13 22.3431 14.3431 21 16 21H27C28.6569 21 30 22.3431 30 24V44C30 42.8954 28.6569 42 27 42H16C14.3431 42 13 40.6569 13 39V24Z" fill="#FFFFFF" stroke="#18181B" stroke-width="3" stroke-linejoin="round" />
+  <path d="M47 24C47 22.3431 45.6569 21 44 21H33C31.3431 21 30 22.3431 30 24V44C30 42.8954 31.3431 42 33 42H44C45.6569 42 47 40.6569 47 39V24Z" fill="#2DD4BF" stroke="#18181B" stroke-width="3" stroke-linejoin="round" />
+
+  <!-- Book Lines -->
+  <line x1="17.5" y1="27.5" x2="25.5" y2="27.5" stroke="#18181B" stroke-width="2.5" stroke-linecap="round" />
+  <line x1="17.5" y1="33" x2="24" y2="33" stroke="#18181B" stroke-width="2.5" stroke-linecap="round" />
+  <line x1="34.5" y1="27.5" x2="42.5" y2="27.5" stroke="#18181B" stroke-width="2.5" stroke-linecap="round" />
+  <line x1="34.5" y1="33" x2="41" y2="33" stroke="#18181B" stroke-width="2.5" stroke-linecap="round" />
+
+  <!-- Graduation Cap / Academic Mortarboard on Top -->
+  <polygon points="30,9 46,15.5 30,22 14,15.5" fill="#F87171" stroke="#18181B" stroke-width="3" stroke-linejoin="round" />
+  <path d="M43 17V24" stroke="#18181B" stroke-width="2.8" stroke-linecap="round" />
+  <circle cx="43" cy="24.5" r="2" fill="#18181B" />
+</svg>
